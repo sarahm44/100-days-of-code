@@ -1,5 +1,7 @@
 # 100-days-of-code
 
+![""](https://github.com/sarahm44/100-days-of-code/blob/main/aesthetic_setup.jpg)
+
 ## Overview
 In this repository I will be recording my progress from doing 100 days of code. I will be working on the Codecademy 'Computer Science' specialisation.
 
