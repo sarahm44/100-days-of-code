@@ -14,3 +14,5 @@ In this repository I will be recording my progress from doing 100 days of code. 
 | 3 | Continued my review of Python lists in Codecademy. | With my PhD responsibilities, today was a low code day. |
 | 4 | Completed the [Len's Slice](https://github.com/sarahm44/lens-slice) project focused on python lists. | Feeling tired from fitting in coding late at night, but enjoying seeing the green squares on my GitHub. |
 | 5 | Continued study of Python, looked at tuples and the zip() function. | Feeling proud of myself for my progress so far. Learning to pace myself better, rather than going into code hyperfocus mode. | 
+| 6 | No code today! | Going to let myself have days off here and there and make up at the end if need be. |
+| 7 | Went through Codecademy notes on loops in Python | I think this is one of the first Python concepts that is new to me. Maybe I just forgot learning this in the past. | 
